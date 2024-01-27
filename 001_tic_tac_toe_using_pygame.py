@@ -1,3 +1,2 @@
 import pygame as py
-
- # have it 
+py.init()
