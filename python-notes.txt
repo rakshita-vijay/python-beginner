@@ -1,18 +1,26 @@
-where to do Python?
+Where to do Python?
 - text editors
 - IDE - Integrated Development Environment
         most popular: PyCharm, Spyder
-- NoteBook Environments
+- NoteBook Environments 
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
-to get pip:
+To run the Python program:
+-------------------------
+python3 <file_name>.py
+
+// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+To get pip:
 ----------
 python3 -m venv myenv
 source myenv/bin/activate  
-pip3 install requests
+pip3 install requests 
 
-to install a package:
+// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+To install a package:
 --------------------
 >>> pip install openpyxl 
 >>> python
@@ -20,6 +28,7 @@ to install a package:
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
-module: a .py script used in another .py script
+Module: A .py script used in another .py script
+Package: Collection of modules
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
