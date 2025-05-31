@@ -12,6 +12,10 @@ python3 <file_name>.py
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
+Special / Magic / Dunder Methods: Methods that overwrite built-in functions like __init__ and __str__ and __len__ 
+
+// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
 To get pip:
 ----------
 python3 -m venv myenv
