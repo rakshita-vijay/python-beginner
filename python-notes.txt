@@ -1,21 +1,25 @@
-Where to do Python?
-- Text Editors
+where to do Python?
+- text editors
 - IDE - Integrated Development Environment
-        Most popular: PyCharm, Spyder
+        most popular: PyCharm, Spyder
 - NoteBook Environments
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
-To get pip:
+to get pip:
 ----------
 python3 -m venv myenv
 source myenv/bin/activate  
 pip3 install requests
 
-To install a package:
+to install a package:
 --------------------
 >>> pip install openpyxl 
 >>> python
 >>> import openpyxl
+
+// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+module: a .py script used in another .py script
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
