@@ -6,4 +6,16 @@ Where to do Python?
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
+To get pip:
+----------
+python3 -m venv myenv
+source myenv/bin/activate  
+pip3 install requests
+
+To install a package:
+--------------------
+>>> pip install openpyxl 
+>>> python
+>>> import openpyxl
+
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
