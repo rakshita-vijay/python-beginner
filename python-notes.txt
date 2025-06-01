@@ -43,15 +43,16 @@ unittest: built-in; used to test own programs to see if we get desired output
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
 for unittesting:
-import unittest
-in the class you define which holds all the testcase, inhert unittest.TestCase
-all the test case methods should start with 'test'
+---------------
+'import unittest'
+in the user-defined class which holds all the testcase methods, inhert unittest.TestCase
+all the testcase methods should start with 'test'
 
 if __name__ == "__main__":
     unittest.main()
 
 unittest.main(): This is a built-in function from the unittest module
-It automatically discovers and runs all test methods that start with test in classes that inherit from unittest.TestCase
+It automatically discovers and runs all test methods that start with 'test' in classes that inherit from unittest.TestCase
 It also provides a command-line interface to run tests, print results, and show errors/failures 
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
