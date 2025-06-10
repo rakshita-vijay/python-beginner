@@ -56,3 +56,11 @@ It automatically discovers and runs all test methods that start with 'test' in c
 It also provides a command-line interface to run tests, print results, and show errors/failures 
 
 // ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+timing code:
+-----------
+tracking time elapsed before and after function call
+timeit module - built into python
+%%timeit "magic" - only for jupyter notebooks
+
+// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
